@@ -1,0 +1,11 @@
+.form {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 16px;
+}
+
+.field {
+    display: flex;
+    gap: 8px;
+}

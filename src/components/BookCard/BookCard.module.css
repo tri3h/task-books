@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    gap: 16px;
+}
+
+.name {
+    font-weight: 500;
+}
+
+.noCover {
+    width: 145px;
+    height: 205px;
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+}
+
+.button {
+    margin-right: 16px;
+}
